@@ -1,8 +1,8 @@
 {
   "name": "pointinpoly",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Exhaustively tested point-in-polygon javascript functions.",
-  "main": "index.js",
+  "main": "pointinpoly.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
