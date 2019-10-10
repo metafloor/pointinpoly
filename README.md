@@ -1,4 +1,4 @@
-# point-in-polygon
+# Point In Polygon
 
 Determine if a point is inside of a polygon, including on vertexes/vertices and edges.
 

@@ -8,12 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/metafloor/pointinpoly.git"
+    "url": "git+https://github.com/metafloor/pointinpoly.git"
   },
   "keywords": [
     "point",
     "polygon",
     "pointInPoly",
+    "pointInPolygon",
+    "inside",
     "poly"
   ],
   "author": "Mark Warren",
